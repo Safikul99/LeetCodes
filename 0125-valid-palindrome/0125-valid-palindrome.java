@@ -1,4 +1,20 @@
 class Solution {
+
+  static boolean check( StringBuilder sb,int i,int j)
+  {
+    if(i>=j)
+    return true;
+    if(sb.charAt(i)!=sb.charAt(j))
+    {
+        return false;
+
+    }
+    
+    return check(sb,i+1,j-1);
+  }
+
+
+
     public boolean isPalindrome(String s) 
     {
         s=s.toLowerCase();
@@ -11,19 +27,8 @@ class Solution {
             }
 
         }
-        int i=0,j=sb.length()-1;
-        while(i<=j)
-        {
-            if(sb.charAt(i)!=sb.charAt(j))
-            {
-                return false;
-               
-            }
-             i++;
-             j--;
-        }
-        
-        return true;
+        return check(sb,0,sb.length()-1);
+       
         
     }
 }
