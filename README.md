@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Safikul99/LeetCodes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0075-sort-colors](https://github.com/Safikul99/LeetCodes/tree/master/0075-sort-colors) |
 | [0792-binary-search](https://github.com/Safikul99/LeetCodes/tree/master/0792-binary-search) |
 | [0941-sort-array-by-parity](https://github.com/Safikul99/LeetCodes/tree/master/0941-sort-array-by-parity) |
@@ -24,9 +25,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Safikul99/LeetCodes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0792-binary-search](https://github.com/Safikul99/LeetCodes/tree/master/0792-binary-search) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Safikul99/LeetCodes/tree/master/0125-valid-palindrome) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Safikul99/LeetCodes/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
