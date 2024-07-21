@@ -48,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/Safikul99/LeetCodes/tree/master/0733-flood-fill) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Safikul99/LeetCodes/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
