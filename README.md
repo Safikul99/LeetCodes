@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Safikul99/LeetCodes/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Safikul99/LeetCodes/tree/master/0125-valid-palindrome) |
+| [0908-middle-of-the-linked-list](https://github.com/Safikul99/LeetCodes/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/Safikul99/LeetCodes/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Safikul99/LeetCodes/tree/master/1019-squares-of-a-sorted-array) |
 ## Sorting
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Safikul99/LeetCodes/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/Safikul99/LeetCodes/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Safikul99/LeetCodes/tree/master/1908-recyclable-and-low-fat-products) |
+## Linked List
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/Safikul99/LeetCodes/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
