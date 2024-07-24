@@ -13,14 +13,21 @@ class Solution {
     {
         if(head==null || head.next==null )
         return head;
-       ListNode newHed=deleteDuplicates(head.next);
-       if(head.val==newHed.val)
-       return newHed;
-       else
-       {
-        head.next=newHed;
-        return head;
-       }
+        ListNode temp=head;
+        while(temp!=null && temp.next!=null)
+        {
+            if(temp.val==temp.next.val)
+            {
+                ListNode del=temp.next;
+                temp.next=del.next;
+
+            }
+            else
+            {
+                temp=temp.next;
+            }
+        }
+       return head;
     }
 
 }
