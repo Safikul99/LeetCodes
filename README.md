@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Safikul99/LeetCodes/tree/master/0007-reverse-integer) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Safikul99/LeetCodes/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -71,4 +72,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0908-middle-of-the-linked-list](https://github.com/Safikul99/LeetCodes/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Safikul99/LeetCodes/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
