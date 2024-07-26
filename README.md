@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Safikul99/LeetCodes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Safikul99/LeetCodes/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Safikul99/LeetCodes/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/Safikul99/LeetCodes/tree/master/0283-move-zeroes) |
 | [0733-flood-fill](https://github.com/Safikul99/LeetCodes/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/Safikul99/LeetCodes/tree/master/0792-binary-search) |
 | [0941-sort-array-by-parity](https://github.com/Safikul99/LeetCodes/tree/master/0941-sort-array-by-parity) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Safikul99/LeetCodes/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Safikul99/LeetCodes/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Safikul99/LeetCodes/tree/master/0160-intersection-of-two-linked-lists) |
+| [0283-move-zeroes](https://github.com/Safikul99/LeetCodes/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Safikul99/LeetCodes/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Safikul99/LeetCodes/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/Safikul99/LeetCodes/tree/master/0941-sort-array-by-parity) |
