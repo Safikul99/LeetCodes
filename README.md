@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Safikul99/LeetCodes/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Safikul99/LeetCodes/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Safikul99/LeetCodes/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Safikul99/LeetCodes/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Safikul99/LeetCodes/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Safikul99/LeetCodes/tree/master/0485-max-consecutive-ones) |
 | [0733-flood-fill](https://github.com/Safikul99/LeetCodes/tree/master/0733-flood-fill) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Safikul99/LeetCodes/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Safikul99/LeetCodes/tree/master/0169-majority-element) |
 | [0941-sort-array-by-parity](https://github.com/Safikul99/LeetCodes/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Safikul99/LeetCodes/tree/master/1019-squares-of-a-sorted-array) |
 ## Binary Search
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Safikul99/LeetCodes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Safikul99/LeetCodes/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Safikul99/LeetCodes/tree/master/0169-majority-element) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Safikul99/LeetCodes/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Safikul99/LeetCodes/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Safikul99/LeetCodes/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Safikul99/LeetCodes/tree/master/0169-majority-element) |
 ## Stack
 |  |
 | ------- |
@@ -115,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Safikul99/LeetCodes/tree/master/0042-trapping-rain-water) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Safikul99/LeetCodes/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
