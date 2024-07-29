@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Safikul99/LeetCodes/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Safikul99/LeetCodes/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Safikul99/LeetCodes/tree/master/0344-reverse-string) |
 ## Divide and Conquer
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Safikul99/LeetCodes/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Safikul99/LeetCodes/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
