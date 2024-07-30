@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Safikul99/LeetCodes/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Safikul99/LeetCodes/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Safikul99/LeetCodes/tree/master/0344-reverse-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Safikul99/LeetCodes/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Safikul99/LeetCodes/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Safikul99/LeetCodes/tree/master/0042-trapping-rain-water) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Safikul99/LeetCodes/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Safikul99/LeetCodes/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Safikul99/LeetCodes/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
