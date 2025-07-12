@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Safikul99/LeetCodes/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Safikul99/LeetCodes/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Safikul99/LeetCodes/tree/master/0283-move-zeroes) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Safikul99/LeetCodes/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Safikul99/LeetCodes/tree/master/0485-max-consecutive-ones) |
 | [0733-flood-fill](https://github.com/Safikul99/LeetCodes/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/Safikul99/LeetCodes/tree/master/0792-binary-search) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Safikul99/LeetCodes/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Safikul99/LeetCodes/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Safikul99/LeetCodes/tree/master/0169-majority-element) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Safikul99/LeetCodes/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Stack
 |  |
 | ------- |
